@@ -21,7 +21,7 @@ public class VirtualAssistantSystem {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("\nHello, I am your personal Virtual Assistant Invoice System!");
-            System.out.println("\n My name is Chris The Great! What can I do for you?");
+            System.out.println("\n My name is Scotty The Cat! What can I do for you?");
             System.out.println("1. Client Management");
             System.out.println("2. Service Management");
             System.out.println("3. Invoice Management");
